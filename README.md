@@ -2,7 +2,7 @@
 
 ## Overview
 **Bordo Education** is an **imaginary education platform** designed to demonstrate how official documentation sites (e.g., Ordino and similar platforms) could be translated into local languages such as **Sinhala** and **Tamil**.  
-This project is a **white‑coding idea** — a conceptual prototype built to explore possibilities rather than a production-ready solution.
+This project is **vibe coded** — a conceptual prototype built to explore possibilities rather than a production-ready solution.
 
 ## ✨ Purpose
 The goal is to:
@@ -43,15 +43,6 @@ Since this is a conceptual project, contributions can include:
 
 ## 📄 License
 MIT License — free to use, adapt, and share.
-
----
-
-### 💡 Expert Advice
-If you want to make your prototype faster without Google APIs:
-- **Microsoft Translator API**: Offers free tier and supports Sinhala/Tamil.
-- **Open-source libraries**: Hugging Face models for multilingual translation.
-- **Caching translations**: Store repeated phrases locally to avoid reprocessing.
-- **Community collaboration**: Invite bilingual contributors to refine translations.
 
 ---
 
