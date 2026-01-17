@@ -1,7 +1,8 @@
 # 📘 Bordo Education Translator
 
 ## Overview
-**Bordo Education** is an **imaginary education platform** designed to demonstrate how official documentation sites (e.g., Ordino and similar platforms) could be translated into local languages such as **Sinhala** and **Tamil**.  
+
+**Bordo Education** is an **imaginary education platform** that demonstrates how official documentation sites (such as Ordino) can be translated into local languages like **Sinhala** and **Tamil**. The project uses an **iframe-based integration** to embed international education and documentation sites directly into the platform, with translations applied inside the iframe. This allows learners to view the original content while experiencing it in their native language.
 This project is **vibe coded** — a conceptual prototype built to explore possibilities rather than a production-ready solution.
 
 ## ✨ Purpose
@@ -21,6 +22,7 @@ The goal is to:
 - Performance depends on manual or alternative translation methods.
 
 ## 🛠️ Tech Notes
+**Iframe Embedding:** International documentation sites are displayed inside an iframe within the Bordo Education platform. - **Translation Layer:** Content inside the iframe is translated into Sinhala and Tamil. - **No Google APIs:** The project currently does not use Google Translation APIs, which makes translation slower and less automated. - Future improvements could integrate Microsoft Translator API, Hugging Face multilingual models, or other open-source solutions. ## 🚀 Features (Conceptual) - Seamless embedding of external educational/documentation sites. - Localized translations inside the iframe. - Preservation of original site structure and formatting.
 - Built with **VIBE code** (experimental approach).
 - Repository demonstrates the concept rather than a fully working product.
 - Future implementations could integrate:
